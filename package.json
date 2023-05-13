@@ -1,0 +1,9 @@
+{
+  "name": "images",
+  "version": "1.0.0",
+  "description": "Collection of various docker images",
+  "main": "none",
+  "repository": "git@github.com:DiabolicaTrix/images",
+  "author": "Alexy <alexy@mantha.dev>",
+  "license": "MIT"
+}
