@@ -1,0 +1,7 @@
+{
+ "name": "database-backup",
+ "scripts": {
+   "build": "make build",
+   "push": "make push"
+ }
+}
